@@ -1,0 +1,62 @@
+@media screen and (max-width:1679px){
+}
+@media screen and (max-width:1199px){
+
+}
+@media screen and (max-width:991px){
+	.wapper_menu{
+		display: none;
+	}
+	.mobile_menu{
+		display: block;
+		position: relative;
+		z-index: 999;
+	}
+	.single-category-news .category-news-content span{
+		padding-top: 15px;
+	}
+	.wp_single .entry-meta{
+		font-size: 12px;
+	}
+	.home_slider img{
+		height: 400px;
+	}
+	.home_slider .owl-nav{
+		top: 38%;
+	}
+}
+@media screen and (max-width:767px){
+	.home_slider img{
+		height: 360px;
+	}
+	.home_slider .owl-nav{
+		top: 36%;
+	}
+}
+@media screen and (max-width:639px){
+	.contact_map{
+		height: 250px;
+	}
+	.home_slider img{
+		height: 260px;
+	}
+	.home_slider .owl-nav{
+		top: 35%;
+		font-size: 55px;
+	}
+}
+@media screen and (max-width:539px){
+
+}
+@media screen and (max-width:439px){
+	.home_slider img{
+		height: 220px;
+	}
+	.home_slider .owl-nav{
+		top: 35%;
+		font-size: 45px;
+	}
+}
+@media screen and (max-width:374px){
+
+/* iphone X */}
